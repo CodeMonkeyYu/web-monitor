@@ -23,6 +23,7 @@
     <eureka-server.version>1.4.3.RELEASE</eureka-server.version>
     <starter-web.version>2.0.0.RELEASE</starter-web.version>
     <eureka.version>1.4.3.RELEASE</eureka.version>
+    <config-server.version>1.4.2.RELEASE</config-server.version>
   </properties>
 
   <dependencyManagement>
