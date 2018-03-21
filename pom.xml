@@ -66,5 +66,6 @@
     <module>monitor-worker</module>
     <module>monitor-api</module>
     <module>monitor-server-center</module>
+    <module>monitor-config-center</module>
   </modules>
 </project>
