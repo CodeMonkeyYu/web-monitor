@@ -1,0 +1,13 @@
+{
+    "classpathEntries":
+        [
+            "f:\\Projects\\web-monitor\\monitor-worker\\target\\classes",
+            "f:\\Projects\\web-monitor\\monitor-server-center\\target\\classes",
+            "f:\\Projects\\web-monitor\\monitor-api\\target\\classes",
+            "f:\\Projects\\web-monitor\\target\\test-classes"
+        ],
+    "name":"web-monitor",
+    "classpathResources":
+        [],
+    "outputFolder":"f:\\Projects\\web-monitor\\target\\classes"
+}
