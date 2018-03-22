@@ -13,7 +13,7 @@ public class MainController {
     @Value("${server.port}")
     private String port;
 
-    @RequestMapping("/")
+    @RequestMapping("/main")
     public String Version(){
         return "The port is " + port;
     }

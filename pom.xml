@@ -23,6 +23,7 @@
     <eureka-server.version>2.0.0.M2</eureka-server.version>
     <starter-web.version>2.0.0.RELEASE</starter-web.version>
     <eureka.version>2.0.0.M2</eureka.version>
+    <feign.version>2.0.0.M2</feign.version>
   </properties>
 
   <dependencyManagement>
